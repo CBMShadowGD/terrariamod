@@ -1,0 +1,6 @@
+name: "Shadows-First-Mod"
+displayName: "[blue]terarria[gold] Mod" //what displays in the mod selection menu
+author: "CBMShadowGD"
+description: "my first mod."
+version: "3.1"
+minGameVersion: "115"
